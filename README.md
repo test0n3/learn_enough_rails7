@@ -1,24 +1,9 @@
-# README
+# Learn Enough Ruby On Rails: Rails 7
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Applying the tutorial, use other tools.
 
-Things you may want to cover:
+- [Rails API Template](https://github.com/sobanakram/rails_api_template/tree/master?tab=readme-ov-file): template that includes tools for a better Rails API, using certain Gems
+- [Pragmatic Programmer - Docker for Rails Developers](https://pragprog.com/titles/ridocker/docker-for-rails-developers/): book that describes how to appropietly use Docker with RoR
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Deploy
+Seems [Render](https://render.com/pricing) has some nice plans for starters and hobbists. Also, has great acceptance by it's simple Dashboard.
