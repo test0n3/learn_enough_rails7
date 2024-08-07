@@ -84,6 +84,10 @@ group :test do
   gem "webdrivers"
   gem 'faker'
   gem 'simplecov'
+  gem 'minitest'
+  gem 'minitest-reporters'
+  gem 'guard'
+  gem 'guard-minitest'
 end
 
 group :production do
