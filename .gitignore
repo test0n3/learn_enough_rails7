@@ -35,7 +35,8 @@
 /config/master.key
 
 # Ignore .env directory
-/.env
+/.env/development/web
+/.env/development/database
 
 # SimpleCov
 coverage
