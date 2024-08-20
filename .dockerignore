@@ -2,6 +2,8 @@
 
 # Ignore git directory.
 /.git/
+.git
+.gitignore
 
 # Ignore bundler config.
 /.bundle
