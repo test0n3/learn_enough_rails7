@@ -57,6 +57,8 @@ group :development, :test do
   # gem 'factory_bot_rails'
   # gem 'rspec-rails'
   gem 'debug', platforms: %i[mri mingw x64_mingw]
+  # assert_template tests for specific rendered templates
+  gem 'rails-controller-testing'
 end
 
 group :development do
